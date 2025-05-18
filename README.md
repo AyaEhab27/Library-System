@@ -1,4 +1,4 @@
-# 🏛️ Library Management System
+# 📚 Library Management System
 
 A complete system for managing books and readers in libraries with an interactive web interface and automatic backup server.
 
@@ -33,13 +33,13 @@ Main Interface:
 ## 📂 Project Structure
 
 library-system/
-├── server/                  # Server side
-│   ├── models/              # Data models
-│   ├── routes/              # API routes
-│   ├── utils/               # Utility files
-│   ├── app.js               # Main Express app
-│   └── server.js            # Server entry point
-├── public/                  # Frontend
+├── server/                 
+│   ├── models/             
+│   ├── routes/              
+│   ├── utils/               
+│   ├── app.js               
+│   └── server.js            
+├── public/                 
 │   ├── css/
 │   ├── js/
 │   └── index.html
