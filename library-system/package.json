@@ -1,0 +1,31 @@
+{
+  "name": "library-system",
+  "version": "1.0.0",
+  "description": "Online Library Management System",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "cli": "node client/cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.3",
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "figlet": "^1.8.1",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.6",
+    "mongoose": "^6.13.8",
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
