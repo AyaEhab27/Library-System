@@ -24,7 +24,6 @@ A complete system for managing books and readers in libraries with an interactiv
 
 After starting the server, open your browser at: http://localhost:3000
 
-
 Main Interface:
 . Books Tab: View, add, search, sort and delete books
 
