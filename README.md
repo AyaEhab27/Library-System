@@ -20,7 +20,8 @@ A complete system for managing books and readers in libraries with an interactiv
 2. npm install
 3. npm start
 
-##🚀 Usage   
+## 🚀 Usage  
+
 After starting the server, open your browser at: http://localhost:3000
 
 
@@ -29,7 +30,8 @@ Main Interface:
 
 . Readers Tab: View, add, search and delete readers
 
-##📂 Project Structure
+## 📂 Project Structure
+
 library-system/
 ├── server/                  # Server side
 │   ├── models/              # Data models
@@ -44,7 +46,8 @@ library-system/
 ├── .gitignore
 └── package.json
 
-##🌐 API Endpoints
+## 🌐 API Endpoints
+
 Books:
 GET /api/books - Get all books
 
@@ -71,7 +74,7 @@ DELETE /api/readers/:id - Delete a reader
 
 DELETE /api/readers/by-name/:name - Delete a reader by title
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Backend:
 . Node.js - JavaScript runtime
